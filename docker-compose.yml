@@ -1,0 +1,27 @@
+services:
+  homepage:
+    image: ghcr.io/gethomepage/homepage:latest
+    container_name: homepage
+    ports:
+      - 127.0.0.1:8099:3000
+    volumes:
+      - ./config:/app/config
+      - ./config/icons:/app/public/icons
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - HOMEPAGE_ALLOWED_HOSTS=localhost:8099,homepage.thecreems.com
+      - HOMEPAGE_VAR_BALANCE_PROXY_URL=${BALANCE_PROXY_URL}
+    restart: unless-stopped
+
+  balance-proxy:
+    build: ./proxy
+    container_name: balance-proxy
+    ports:
+      - 127.0.0.1:3005:3005
+    environment:
+      - RUNPOD_API_KEY=${RUNPOD_API_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - GROK_API_KEY=${GROK_API_KEY}
+      - VENICE_API_ADMIN_KEY=${VENICE_API_ADMIN_KEY}
+    restart: unless-stopped

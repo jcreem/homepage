@@ -1,0 +1,93 @@
+- My Services:
+    - FactsEngine:
+        href: https://factsenginer.thecreems.com
+        description: FactsEngine Service
+        icon: /icons/factsEngine.png
+        status: https://factsenginer.thecreems.com
+    - StateDB Mirror:
+        href: https://statedbmirror.thecreems.com
+        description: State Database Mirror
+        icon: /icons/statedbmirror.png
+        status: https://statedbmirror.thecreems.com
+    - FPE Admin:
+        href: https://fpeadmin.thecreems.com
+        description: FPE Administration
+        icon: /icons/statehouse_video.png
+        status: https://fpeadmin.thecreems.com
+
+- Hosted Third-Party:
+    - SonarQube:
+        href: https://sonarqube.thecreems.com
+        description: Code Quality & Security
+        icon: sonarqube.png
+        status: https://sonarqube.thecreems.com
+    - Keycloak:
+        href: https://auth.thecreems.com
+        description: Identity & Access Management
+        icon: keycloak.png
+        status: https://auth.thecreems.com
+    - Infisical:
+        href: https://infisical.thecreems.com
+        description: Secrets Management
+        icon: infisical.png
+        status: https://infisical.thecreems.com
+    - MetaMCP:
+        href: https://mcp.thecreems.com
+        description: Model Context Protocol
+        icon: /icons/metamcp.jpg
+        status: https://mcp.thecreems.com
+    - OpenWebUI:
+        href: https://openwebui.thecreems.com
+        description: AI Chat Interface
+        icon: /icons/openwebui.png
+        status: https://openwebui.thecreems.com
+
+- Cloud:
+    - RunPod:
+        href: https://www.runpod.io
+        description: GPU Cloud Platform
+        icon: /icons/runpod.jpg
+        widgets:
+          - type: customapi
+            url: "{{HOMEPAGE_VAR_BALANCE_PROXY_URL}}/balance/runpod"
+            refreshInterval: 60000
+            mappings:
+              - field: balance
+                label: Balance
+                prefix: "$"
+    - OpenAI:
+        href: https://platform.openai.com
+        description: AI Platform
+        icon: openai.png
+        widgets:
+          - type: customapi
+            url: "{{HOMEPAGE_VAR_BALANCE_PROXY_URL}}/balance/openai"
+            refreshInterval: 60000
+            mappings:
+              - field: balance
+                label: Balance
+                prefix: "$"
+    - Grok:
+        href: https://x.ai
+        description: xAI Platform
+        icon: grok.png
+        widgets:
+          - type: customapi
+            url: "{{HOMEPAGE_VAR_BALANCE_PROXY_URL}}/balance/grok"
+            refreshInterval: 60000
+            mappings:
+              - field: balance
+                label: Balance
+                prefix: "$"
+    - Venice:
+        href: https://venice.ai
+        description: AI Platform
+        icon: /icons/venice.png
+        widgets:
+          - type: customapi
+            url: "{{HOMEPAGE_VAR_BALANCE_PROXY_URL}}/balance/venice"
+            refreshInterval: 60000
+            mappings:
+              - field: balance
+                label: Balance
+                prefix: "$"

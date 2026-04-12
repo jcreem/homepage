@@ -1,0 +1,7 @@
+- resource:
+    label: CPU
+    cpu: true
+    memory: true
+- resource:
+    label: Disk
+    disk: /

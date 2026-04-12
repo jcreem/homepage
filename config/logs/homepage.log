@@ -1,0 +1,1428 @@
+[2026-04-11T00:39:51.006Z] info: kubernetes.yaml was copied to the config folder
+[2026-04-11T00:39:56.196Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:39:56.904Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:39:56.914Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:39:56.922Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:39:56.941Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:39:56.960Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:39:56.968Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:39:56.979Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:39:56.992Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:39:57.039Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:39:57.044Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:39:57.049Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:32.673Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:32.683Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:33.596Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:33.702Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:33.707Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:33.741Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:33.745Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:33.777Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:33.783Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:33.821Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:33.824Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:33.857Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:33.893Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:33.927Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:33.934Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:34.736Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:34.802Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:34.806Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:34.812Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:34.816Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:34.851Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:34.856Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:34.862Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:34.866Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:34.908Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:34.915Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:34.946Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:34.951Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:35.329Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:35.386Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:35.392Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:35.399Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:35.404Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:35.409Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:35.441Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:35.445Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:35.449Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:35.454Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:35.488Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:35.492Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:35.525Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:35.862Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:35.928Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:35.931Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:35.935Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:35.939Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:35.971Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:35.976Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:35.980Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:36.012Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:36.016Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:36.019Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:36.053Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:40:36.089Z] error: Host validation failed for: localhost:8099. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-04-11T00:41:31.258Z] info: custom.css was copied to the config folder
+[2026-04-11T00:41:31.261Z] info: custom.js was copied to the config folder
+[2026-04-11T00:41:31.286Z] info: proxmox.yaml was copied to the config folder
+[2026-04-11T00:41:31.679Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-11T00:41:31.696Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-11T00:41:31.697Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-11T00:41:32.208Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:41:32.231Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:41:32.248Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:41:32.261Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:41:32.279Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:41:32.294Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:41:32.314Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:41:32.323Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:41:32.379Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-11T00:41:32.385Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-11T00:41:32.380Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-11T00:42:02.599Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-11T00:42:02.604Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-11T00:42:02.624Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-11T00:42:02.704Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:02.723Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:02.734Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:02.741Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:02.765Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:02.782Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:02.791Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:02.815Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:07.500Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-11T00:42:07.507Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-11T00:42:07.507Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-11T00:42:07.803Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:07.804Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:07.805Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:07.828Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:07.829Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:07.830Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:07.850Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:07.868Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:07.893Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-11T00:42:07.897Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-11T00:42:07.893Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-11T00:42:18.347Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-11T00:42:18.348Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-11T00:42:18.376Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-11T00:42:18.379Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:18.392Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:18.402Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:18.411Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:18.433Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:18.435Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:18.453Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:18.455Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:58.551Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-11T00:42:58.561Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:58.551Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-11T00:42:58.574Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-11T00:42:58.585Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:58.601Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:58.602Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:58.617Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:58.619Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:58.626Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-11T00:42:58.638Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T12:08:39.792Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T12:08:39.792Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T12:08:39.833Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T12:08:39.867Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T12:08:39.868Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T12:08:39.869Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T12:08:39.869Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T12:08:39.900Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T12:08:39.915Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T12:08:39.916Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T12:08:39.917Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T12:08:40.007Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T12:08:40.016Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T12:08:40.016Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T12:08:40.324Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T12:08:40.326Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T12:08:40.343Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T12:08:40.345Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T12:08:40.358Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T12:08:40.393Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T12:08:40.412Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T12:08:40.415Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T12:08:40.421Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T12:08:40.421Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T12:08:40.429Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T15:43:14.301Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T15:43:14.323Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T15:43:14.303Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T15:43:14.396Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T15:43:14.438Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T15:43:14.440Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T15:43:14.845Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:43:14.856Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:43:14.866Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:43:14.871Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T15:43:14.876Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T15:43:14.871Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T15:43:14.886Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:43:14.896Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:43:14.907Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:43:14.925Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:43:14.927Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:49:42.654Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T15:49:42.655Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T15:49:42.701Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T15:49:42.717Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:49:42.731Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:49:42.766Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:49:42.777Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:49:42.817Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:49:42.826Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:49:42.836Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:49:42.850Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:08.266Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T15:52:08.267Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T15:52:08.275Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T15:52:08.312Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:08.319Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:08.397Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:08.405Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:08.424Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:08.440Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:08.450Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:08.460Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:08.792Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T15:52:08.792Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T15:52:08.816Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T15:52:08.850Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:08.865Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:08.901Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:08.910Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:08.918Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:08.928Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:08.936Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:08.944Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:59.340Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T15:52:59.344Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T15:52:59.361Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:59.346Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T15:52:59.385Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:59.404Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:59.416Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:59.427Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:59.435Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:59.443Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:59.451Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:59.512Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T15:52:59.522Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T15:52:59.522Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T15:52:59.907Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T15:52:59.907Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T15:52:59.915Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T15:52:59.927Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:59.941Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:59.947Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:59.953Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:59.962Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:59.976Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:59.985Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:52:59.992Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:53:02.484Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T15:53:02.485Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T15:53:02.503Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T15:53:02.505Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:53:02.523Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:53:02.533Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:53:02.543Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:53:02.555Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:53:02.567Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:53:02.582Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:53:02.591Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:54:20.839Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T15:54:20.840Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T15:54:20.853Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:54:20.865Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T15:54:20.868Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:54:20.880Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:54:20.888Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:54:20.910Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:54:20.922Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:54:20.930Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:54:20.939Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:55:16.632Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T15:55:16.632Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T15:55:16.650Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T15:55:16.652Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:55:16.662Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:55:16.677Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:55:16.684Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:55:16.694Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:55:16.704Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:55:16.714Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:55:16.723Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:56:45.881Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:56:45.908Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T15:56:45.919Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:56:45.930Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:56:45.932Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T15:56:45.945Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:56:45.933Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T15:56:45.956Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:56:45.967Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:56:45.976Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:56:45.986Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:56:46.039Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T15:56:46.051Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T15:56:46.052Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T15:56:46.354Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:56:46.363Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:56:46.376Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:56:46.384Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:56:46.395Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:56:46.404Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:56:46.421Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:56:46.431Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T15:56:46.481Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T15:56:46.481Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T15:56:46.505Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T16:04:10.303Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T16:04:10.305Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T16:04:10.384Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T16:04:10.445Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T16:04:10.480Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T16:04:10.481Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T16:04:10.921Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T16:04:10.935Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:04:10.921Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T16:04:10.950Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T16:04:10.952Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:04:10.963Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:04:10.973Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:04:10.989Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:04:11.002Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:04:11.014Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:04:11.028Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:04:45.995Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:04:46.016Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T16:04:46.033Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:04:46.018Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T16:04:46.047Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:04:46.069Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:04:46.095Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T16:04:46.101Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:04:46.117Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:04:46.157Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:04:46.198Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:04:46.565Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T16:04:46.577Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T16:04:46.577Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T16:04:46.951Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:04:46.961Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:04:46.987Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:04:46.995Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:04:47.005Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:04:47.014Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:04:47.028Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:04:47.041Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:13.400Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:13.412Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T16:06:13.423Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:13.412Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T16:06:13.432Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:13.439Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T16:06:13.452Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:13.464Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:13.472Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:13.487Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:13.497Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:20.637Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T16:06:20.650Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:20.639Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T16:06:20.668Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:20.681Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:20.694Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T16:06:20.696Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:20.711Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:20.721Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:20.730Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:20.746Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:22.263Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:22.266Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T16:06:22.276Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:22.266Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T16:06:22.294Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T16:06:22.296Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:22.309Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:22.319Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:22.329Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:22.345Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:22.359Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:23.014Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:23.028Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:23.041Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:23.049Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:23.059Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:23.068Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:23.082Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:23.090Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-04-12T16:06:23.123Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-04-12T16:06:23.134Z] error: <service-helpers> Error getting services from Docker server 'my-docker': Error: connect EACCES /var/run/docker.sock
+    at ignore-listed frames {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2026-04-12T16:06:23.124Z] error: bad indentation of a mapping entry (5:5)
+
+ 2 |         label: CPU
+ 3 |         cpu: true
+ 4 |         memory: true
+ 5 |     - resource:
+---------^
+ 6 |         label: Disk
+ 7 |         disk: /
+[2026-04-12T16:08:39.659Z] info: docker.yaml was copied to the config folder
+[2026-04-12T16:08:39.795Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'my-docker')
+    at k (/app/.next/server/chunks/6380.js:1:12119)
+    at j (/app/.next/server/pages/api/docker/status/[...service].js:1:4266)
+    at tN (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99052)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async tI.render (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99761)
+    at async Module.n (/app/.next/server/pages/api/docker/status/[...service].js:1:3500)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:747:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:392:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/base-server.js:915:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/lib/router-server.js:248:21)
+[2026-04-12T16:08:39.842Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'my-docker')
+    at k (/app/.next/server/chunks/6380.js:1:12119)
+    at j (/app/.next/server/pages/api/docker/status/[...service].js:1:4266)
+    at tN (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99052)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async tI.render (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99761)
+    at async Module.n (/app/.next/server/pages/api/docker/status/[...service].js:1:3500)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:747:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:392:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/base-server.js:915:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/lib/router-server.js:248:21)
+[2026-04-12T16:08:39.859Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'my-docker')
+    at k (/app/.next/server/chunks/6380.js:1:12119)
+    at j (/app/.next/server/pages/api/docker/status/[...service].js:1:4266)
+    at tN (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99052)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async tI.render (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99761)
+    at async Module.n (/app/.next/server/pages/api/docker/status/[...service].js:1:3500)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:747:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:392:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/base-server.js:915:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/lib/router-server.js:248:21)
+[2026-04-12T16:08:39.883Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'my-docker')
+    at k (/app/.next/server/chunks/6380.js:1:12119)
+    at j (/app/.next/server/pages/api/docker/status/[...service].js:1:4266)
+    at tN (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99052)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async tI.render (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99761)
+    at async Module.n (/app/.next/server/pages/api/docker/status/[...service].js:1:3500)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:747:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:392:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/base-server.js:915:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/lib/router-server.js:248:21)
+[2026-04-12T16:08:39.900Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'my-docker')
+    at k (/app/.next/server/chunks/6380.js:1:12119)
+    at j (/app/.next/server/pages/api/docker/status/[...service].js:1:4266)
+    at tN (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99052)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async tI.render (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99761)
+    at async Module.n (/app/.next/server/pages/api/docker/status/[...service].js:1:3500)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:747:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:392:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/base-server.js:915:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/lib/router-server.js:248:21)
+[2026-04-12T16:08:39.913Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'my-docker')
+    at k (/app/.next/server/chunks/6380.js:1:12119)
+    at j (/app/.next/server/pages/api/docker/status/[...service].js:1:4266)
+    at tN (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99052)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async tI.render (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99761)
+    at async Module.n (/app/.next/server/pages/api/docker/status/[...service].js:1:3500)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:747:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:392:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/base-server.js:915:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/lib/router-server.js:248:21)
+[2026-04-12T16:08:39.925Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'my-docker')
+    at k (/app/.next/server/chunks/6380.js:1:12119)
+    at j (/app/.next/server/pages/api/docker/status/[...service].js:1:4266)
+    at tN (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99052)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async tI.render (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99761)
+    at async Module.n (/app/.next/server/pages/api/docker/status/[...service].js:1:3500)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:747:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:392:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/base-server.js:915:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/lib/router-server.js:248:21)
+[2026-04-12T16:08:39.936Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'my-docker')
+    at k (/app/.next/server/chunks/6380.js:1:12119)
+    at j (/app/.next/server/pages/api/docker/status/[...service].js:1:4266)
+    at tN (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99052)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async tI.render (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99761)
+    at async Module.n (/app/.next/server/pages/api/docker/status/[...service].js:1:3500)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:747:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:392:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/base-server.js:915:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/lib/router-server.js:248:21)
+[2026-04-12T16:10:27.325Z] info: docker.yaml was copied to the config folder
+[2026-04-12T16:11:49.943Z] info: docker.yaml was copied to the config folder
+[2026-04-12T16:13:16.428Z] info: docker.yaml was copied to the config folder
+[2026-04-12T16:33:02.889Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'my-docker')
+    at k (/app/.next/server/chunks/6380.js:1:12119)
+    at j (/app/.next/server/pages/api/docker/status/[...service].js:1:4266)
+    at tN (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99052)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async tI.render (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99761)
+    at async Module.n (/app/.next/server/pages/api/docker/status/[...service].js:1:3500)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:747:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:392:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/base-server.js:915:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/lib/router-server.js:248:21)
+[2026-04-12T16:33:02.903Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'my-docker')
+    at k (/app/.next/server/chunks/6380.js:1:12119)
+    at j (/app/.next/server/pages/api/docker/status/[...service].js:1:4266)
+    at tN (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99052)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async tI.render (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99761)
+    at async Module.n (/app/.next/server/pages/api/docker/status/[...service].js:1:3500)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:747:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:392:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/base-server.js:915:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/lib/router-server.js:248:21)
+[2026-04-12T16:33:02.914Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'my-docker')
+    at k (/app/.next/server/chunks/6380.js:1:12119)
+    at j (/app/.next/server/pages/api/docker/status/[...service].js:1:4266)
+    at tN (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99052)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async tI.render (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99761)
+    at async Module.n (/app/.next/server/pages/api/docker/status/[...service].js:1:3500)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:747:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:392:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/base-server.js:915:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/lib/router-server.js:248:21)
+[2026-04-12T16:33:02.927Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'my-docker')
+    at k (/app/.next/server/chunks/6380.js:1:12119)
+    at j (/app/.next/server/pages/api/docker/status/[...service].js:1:4266)
+    at tN (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99052)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async tI.render (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99761)
+    at async Module.n (/app/.next/server/pages/api/docker/status/[...service].js:1:3500)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:747:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:392:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/base-server.js:915:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/lib/router-server.js:248:21)
+[2026-04-12T16:33:02.942Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'my-docker')
+    at k (/app/.next/server/chunks/6380.js:1:12119)
+    at j (/app/.next/server/pages/api/docker/status/[...service].js:1:4266)
+    at tN (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99052)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async tI.render (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99761)
+    at async Module.n (/app/.next/server/pages/api/docker/status/[...service].js:1:3500)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:747:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:392:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/base-server.js:915:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/lib/router-server.js:248:21)
+[2026-04-12T16:33:02.961Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'my-docker')
+    at k (/app/.next/server/chunks/6380.js:1:12119)
+    at j (/app/.next/server/pages/api/docker/status/[...service].js:1:4266)
+    at tN (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99052)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async tI.render (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99761)
+    at async Module.n (/app/.next/server/pages/api/docker/status/[...service].js:1:3500)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:747:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:392:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/base-server.js:915:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/lib/router-server.js:248:21)
+[2026-04-12T16:33:02.994Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'my-docker')
+    at k (/app/.next/server/chunks/6380.js:1:12119)
+    at j (/app/.next/server/pages/api/docker/status/[...service].js:1:4266)
+    at tN (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99052)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async tI.render (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99761)
+    at async Module.n (/app/.next/server/pages/api/docker/status/[...service].js:1:3500)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:747:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:392:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/base-server.js:915:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/lib/router-server.js:248:21)
+[2026-04-12T16:33:03.002Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'my-docker')
+    at k (/app/.next/server/chunks/6380.js:1:12119)
+    at j (/app/.next/server/pages/api/docker/status/[...service].js:1:4266)
+    at tN (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99052)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async tI.render (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:99761)
+    at async Module.n (/app/.next/server/pages/api/docker/status/[...service].js:1:3500)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:747:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/next-server.js:392:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/base-server.js:915:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@16.1.7_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/server/lib/router-server.js:248:21)

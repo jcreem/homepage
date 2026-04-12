@@ -1,0 +1,9 @@
+title: TheCreems Dashboard
+subtitle: Services Dashboard
+logo: https://www.google.com/s2/favicons?domain=thecreems.com&sz=64
+headerStyle: clean
+layout:
+    - My Services
+    - Open Source
+    - Cloud
+host: localhost:8099

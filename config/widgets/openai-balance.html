@@ -1,0 +1,38 @@
+<div class="balance-widget">
+    <h3>OpenAI Balance</h3>
+    <div id="balance-display">Loading...</div>
+</div>
+
+<script>
+    (async function() {
+        const loadBalance = async () => {
+            try {
+                const response = await fetch('{{HOMEPAGE_VAR_BALANCE_PROXY_URL}}/balance/openai');
+                const data = await response.json();
+                document.getElementById('balance-display').textContent = '$' + data.balance;
+            } catch {
+                document.getElementById('balance-display').textContent = 'Error loading balance';
+            }
+        };
+        await loadBalance();
+        setInterval(loadBalance, 60000);
+    })();
+</script>
+
+<style>
+    .balance-widget {
+        background: var(--card-background, #1a1a1a);
+        padding: 1rem;
+        border-radius: 8px;
+    }
+    .balance-widget h3 {
+        margin: 0 0 0.5rem 0;
+        font-size: 1rem;
+        color: var(--text-color, #fff);
+    }
+    #balance-display {
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: var(--accent-color, #4ade80);
+    }
+</style>
