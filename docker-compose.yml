@@ -1,6 +1,6 @@
 services:
   homepage:
-    image: ghcr.io/gethomepage/homepage:latest
+    build: .
     container_name: homepage
     ports:
       - 127.0.0.1:8099:3000
@@ -12,6 +12,10 @@ services:
       - PGID=1000
       - HOMEPAGE_ALLOWED_HOSTS=localhost:8099,homepage.thecreems.com
       - HOMEPAGE_VAR_BALANCE_PROXY_URL=${BALANCE_PROXY_URL}
+      # Varlock configuration
+      - VARLOCK_ENABLED=true
+      - VARLOCK_INFISICAL_PROJECT_ID=${VARLOCK_INFISICAL_PROJECT_ID}
+      - VARLOCK_INFISICAL_ENV=${VARLOCK_INFISICAL_ENV:-production}
     restart: unless-stopped
 
   balance-proxy:
@@ -20,8 +24,9 @@ services:
     ports:
       - 127.0.0.1:3005:3005
     environment:
-      - RUNPOD_API_KEY=${RUNPOD_API_KEY}
-      - OPENAI_API_KEY=${OPENAI_API_KEY}
-      - GROK_API_KEY=${GROK_API_KEY}
-      - VENICE_API_ADMIN_KEY=${VENICE_API_ADMIN_KEY}
+      # Varlock configuration
+      - VARLOCK_ENABLED=true
+      - VARLOCK_INFISICAL_PROJECT_ID=${VARLOCK_INFISICAL_PROJECT_ID}
+      - VARLOCK_INFISICAL_ENV=${VARLOCK_INFISICAL_ENV:-production}
+      # Secrets will be injected by Varlock
     restart: unless-stopped

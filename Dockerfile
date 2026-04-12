@@ -1,15 +1,6 @@
-FROM node:20-alpine
+FROM ghcr.io/gethomepage/homepage:latest
 
-WORKDIR /app
-
+# Install Varlock via the official script
 RUN apk add --no-cache curl \
-    && npm init -y \
-    && npm install express axios \
     && curl -sSfL https://varlock.dev/install.sh | sh -s -- --force-no-brew \
     && ln -s /root/.varlock/bin/varlock /usr/local/bin/varlock
-
-COPY server.js .
-
-EXPOSE 3005
-
-CMD ["node", "server.js"]
