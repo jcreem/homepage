@@ -10,7 +10,7 @@ This is a gethomepage.dev dashboard for TheCreems services.
 - **StateDB Mirror**: https://statedbmirror.thecreems.com
 - **FPE Admin**: https://fpeadmin.thecreems.com
 
-### Open Source Apps
+### Hosted Third-Party Apps
 - **Keycloak** (Auth): https://auth.thecreems.com
 - **Infisical**: https://infisical.thecreems.com
 - **MetaMCP**: https://mcp.thecreems.com
@@ -46,23 +46,27 @@ The balance proxy service securely fetches balances from AI and cloud services:
 - **Grok** (`/balance/grok`) - Fully functional
 - **Venice** (`/balance/venice`) - Fully functional
 
-### Setting up API Keys with Infisical
+### Setting up API Keys with Infisical (via Varlock)
 
-To securely inject API keys using Infisical:
+This project uses **Varlock** to securely inject secrets from Infisical into containers.
 
 1. Create API keys for each service:
    - RunPod: https://www.runpod.io/console/user/settings
    - OpenAI: https://platform.openai.com/api-keys
    - Grok (xAI): https://console.x.ai/
-   - Venice: https://venice.ai/api-keys
+   - Venice: https://venice.ai/api-keys (requires Admin key)
 2. Add them to your Infisical project with names:
    - `RUNPOD_API_KEY`
    - `OPENAI_API_KEY`
    - `GROK_API_KEY`
    - `VENICE_API_ADMIN_KEY`
-3. Configure Infisical to inject these into the `balance-proxy` container
+   - `BALANCE_PROXY_URL` (optional, defaults to https://homepagehelper.thecreems.com)
+3. Set the following environment variables in your `.env` file:
+   - `VARLOCK_INFISICAL_PROJECT_ID` - Your Infisical project ID
+   - `VARLOCK_INFISICAL_ENV` - Environment name (default: production)
+4. Varlock will automatically inject these secrets into both the `homepage` and `balance-proxy` containers at startup
 
-For manual testing, set keys in `.env` file:
+For manual testing without Infisical, set keys directly in `.env` file:
 ```
 RUNPOD_API_KEY=your_actual_runpod_key
 OPENAI_API_KEY=your_actual_openai_key
