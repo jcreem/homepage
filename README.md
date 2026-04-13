@@ -48,7 +48,7 @@ The balance proxy service securely fetches balances from AI and cloud services:
 
 ### Setting up API Keys with Infisical (via Varlock)
 
-This project uses **Varlock** to securely inject secrets from Infisical into containers.
+This project uses **Varlock** to securely inject secrets from Infisical into containers using the `.env.schema` decorator pattern.
 
 1. Create API keys for each service:
    - RunPod: https://www.runpod.io/console/user/settings
@@ -61,10 +61,13 @@ This project uses **Varlock** to securely inject secrets from Infisical into con
    - `GROK_API_KEY`
    - `VENICE_API_ADMIN_KEY`
    - `BALANCE_PROXY_URL` (optional, defaults to https://homepagehelper.thecreems.com)
-3. Set the following environment variables in your `.env` file:
-   - `VARLOCK_INFISICAL_PROJECT_ID` - Your Infisical project ID
-   - `VARLOCK_INFISICAL_ENV` - Environment name (default: production)
-4. Varlock will automatically inject these secrets into both the `homepage` and `balance-proxy` containers at startup
+3. Create an Infisical Machine Identity (Universal Auth) and get your Client ID and Client Secret
+4. Set the following in your `.env` file:
+   - `INFISICAL_PROJECT_ID` - Your Infisical project ID (numeric)
+   - `INFISICAL_ENV` - Environment name (default: production)
+   - `INFISICAL_CLIENT_ID` - Machine identity client ID
+   - `INFISICAL_CLIENT_SECRET` - Machine identity client secret
+5. Varlock will automatically fetch and inject secrets from Infisical at container startup
 
 For manual testing without Infisical, set keys directly in `.env` file:
 ```

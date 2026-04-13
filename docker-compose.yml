@@ -12,10 +12,11 @@ services:
       - PGID=1000
       - HOMEPAGE_ALLOWED_HOSTS=localhost:8099,homepage.thecreems.com
       - HOMEPAGE_VAR_BALANCE_PROXY_URL=${BALANCE_PROXY_URL}
-      # Varlock configuration
-      - VARLOCK_ENABLED=true
-      - VARLOCK_INFISICAL_PROJECT_ID=${VARLOCK_INFISICAL_PROJECT_ID}
-      - VARLOCK_INFISICAL_ENV=${VARLOCK_INFISICAL_ENV:-production}
+      # Infisical credentials (for Varlock)
+      - INFISICAL_PROJECT_ID=${INFISICAL_PROJECT_ID}
+      - INFISICAL_ENV=${INFISICAL_ENV:-production}
+      - INFISICAL_CLIENT_ID=${INFISICAL_CLIENT_ID}
+      - INFISICAL_CLIENT_SECRET=${INFISICAL_CLIENT_SECRET}
     restart: unless-stopped
 
   balance-proxy:
@@ -24,9 +25,9 @@ services:
     ports:
       - 127.0.0.1:3005:3005
     environment:
-      # Varlock configuration
-      - VARLOCK_ENABLED=true
-      - VARLOCK_INFISICAL_PROJECT_ID=${VARLOCK_INFISICAL_PROJECT_ID}
-      - VARLOCK_INFISICAL_ENV=${VARLOCK_INFISICAL_ENV:-production}
-      # Secrets will be injected by Varlock
+      # Infisical credentials (for Varlock)
+      - INFISICAL_PROJECT_ID=${INFISICAL_PROJECT_ID}
+      - INFISICAL_ENV=${INFISICAL_ENV:-production}
+      - INFISICAL_CLIENT_ID=${INFISICAL_CLIENT_ID}
+      - INFISICAL_CLIENT_SECRET=${INFISICAL_CLIENT_SECRET}
     restart: unless-stopped
