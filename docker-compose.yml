@@ -7,16 +7,19 @@ services:
     volumes:
       - ./config:/app/config
       - ./config/icons:/app/public/icons
+      - ./.env.schema:/app/.env.schema:ro
     environment:
       - PUID=1000
       - PGID=1000
       - HOMEPAGE_ALLOWED_HOSTS=localhost:8099,homepage.thecreems.com
-      - HOMEPAGE_VAR_BALANCE_PROXY_URL=${BALANCE_PROXY_URL}
+      - BALANCE_PROXY_URL=${BALANCE_PROXY_URL}
       # Infisical credentials (for Varlock)
       - INFISICAL_PROJECT_ID=${INFISICAL_PROJECT_ID}
-      - INFISICAL_ENV=${INFISICAL_ENV:-production}
-      - INFISICAL_CLIENT_ID=${INFISICAL_CLIENT_ID}
-      - INFISICAL_CLIENT_SECRET=${INFISICAL_CLIENT_SECRET}
+      - INFISICAL_ENVIRONMENT=${INFISICAL_ENVIRONMENT:-production}
+      - INFISICAL_API_URL=${INFISICAL_API_URL:-https://api.infisical.com}
+      - INFISICAL_UNIVERSAL_AUTH_CLIENT_ID=${INFISICAL_UNIVERSAL_AUTH_CLIENT_ID}
+      - INFISICAL_UNIVERSAL_AUTH_CLIENT_SECRET=${INFISICAL_UNIVERSAL_AUTH_CLIENT_SECRET}
+    command: ["sh", "-lc", "exec /usr/local/bin/varlock run --path /app -- sh -lc 'export HOMEPAGE_VAR_BALANCE_PROXY_URL=\"${HOMEPAGE_VAR_BALANCE_PROXY_URL:-$BALANCE_PROXY_URL}\" && exec node server.js'"]
     restart: unless-stopped
 
   balance-proxy:
@@ -24,10 +27,15 @@ services:
     container_name: balance-proxy
     ports:
       - 127.0.0.1:3005:3005
+    volumes:
+      - ./.env.schema:/app/.env.schema:ro
     environment:
+      - BALANCE_PROXY_URL=${BALANCE_PROXY_URL}
       # Infisical credentials (for Varlock)
       - INFISICAL_PROJECT_ID=${INFISICAL_PROJECT_ID}
-      - INFISICAL_ENV=${INFISICAL_ENV:-production}
-      - INFISICAL_CLIENT_ID=${INFISICAL_CLIENT_ID}
-      - INFISICAL_CLIENT_SECRET=${INFISICAL_CLIENT_SECRET}
+      - INFISICAL_ENVIRONMENT=${INFISICAL_ENVIRONMENT:-production}
+      - INFISICAL_API_URL=${INFISICAL_API_URL:-https://api.infisical.com}
+      - INFISICAL_UNIVERSAL_AUTH_CLIENT_ID=${INFISICAL_UNIVERSAL_AUTH_CLIENT_ID}
+      - INFISICAL_UNIVERSAL_AUTH_CLIENT_SECRET=${INFISICAL_UNIVERSAL_AUTH_CLIENT_SECRET}
+    command: ["sh", "-lc", "exec /usr/local/bin/varlock run --path /app -- node server.js"]
     restart: unless-stopped

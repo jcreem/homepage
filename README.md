@@ -55,7 +55,7 @@ This project uses **Varlock** to securely inject secrets from Infisical into con
    - OpenAI: https://platform.openai.com/api-keys
    - Grok (xAI): https://console.x.ai/
    - Venice: https://venice.ai/api-keys (requires Admin key)
-2. Add them to your Infisical project with names:
+2. Add them to your Infisical project in the `external_services` folder with names:
    - `RUNPOD_API_KEY`
    - `OPENAI_API_KEY`
    - `GROK_API_KEY`
@@ -64,9 +64,10 @@ This project uses **Varlock** to securely inject secrets from Infisical into con
 3. Create an Infisical Machine Identity (Universal Auth) and get your Client ID and Client Secret
 4. Set the following in your `.env` file:
    - `INFISICAL_PROJECT_ID` - Your Infisical project ID (numeric)
-   - `INFISICAL_ENV` - Environment name (default: production)
-   - `INFISICAL_CLIENT_ID` - Machine identity client ID
-   - `INFISICAL_CLIENT_SECRET` - Machine identity client secret
+   - `INFISICAL_ENVIRONMENT` - Environment name (default: production)
+   - `INFISICAL_API_URL` - Infisical API URL (default: https://api.infisical.com)
+   - `INFISICAL_UNIVERSAL_AUTH_CLIENT_ID` - Machine identity client ID
+   - `INFISICAL_UNIVERSAL_AUTH_CLIENT_SECRET` - Machine identity client secret
 5. Varlock will automatically fetch and inject secrets from Infisical at container startup
 
 For manual testing without Infisical, set keys directly in `.env` file:

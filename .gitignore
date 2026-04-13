@@ -1,4 +1,3 @@
 config/icons/*.png
 !config/icons/.gitkeep
-.env
 config/docker.yaml
