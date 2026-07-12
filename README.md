@@ -5,7 +5,7 @@ This is a gethomepage.dev dashboard for TheCreems services.
 ## Services Configured
 
 ### Custom Apps (with status and lunch buttons)
-- **FactsEngine**: https://factsenginer.thecreems.com
+- **FactsEngine**: https://factsengine.thecreems.com
 - **SonarQube**: https://sonarqube.thecreems.com
 - **StateDB Mirror**: https://statedbmirror.thecreems.com
 - **FPE Admin**: https://fpeadmin.thecreems.com

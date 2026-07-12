@@ -1,9 +1,9 @@
 - My Services:
     - FactsEngine:
-        href: https://factsenginer.thecreems.com
+        href: https://factsengine.thecreems.com
         description: FactsEngine Service
         icon: /icons/factsEngine.png
-        status: https://factsenginer.thecreems.com
+        status: https://factsengine.thecreems.com
     - StateDB Mirror:
         href: https://statedbmirror.thecreems.com
         description: State Database Mirror
