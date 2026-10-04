@@ -1,4 +1,4 @@
-FROM ghcr.io/gethomepage/homepage:v1.12.3
+FROM ghcr.io/gethomepage/homepage:v2.4.0
 
 # Install Varlock via the official script
 RUN apk add --no-cache curl \
